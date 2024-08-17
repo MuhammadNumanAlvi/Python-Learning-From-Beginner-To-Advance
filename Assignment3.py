@@ -1,6 +1,6 @@
 # Simple Message
-#message : str = "Learn Python"
-#print(message)
+message : str = "Learn Python"
+print(message)
 
 # Simple Messages
 message = "Coding Sekho"
@@ -21,8 +21,8 @@ print ('Steve Jobs once said, "If today were the last day of your life, would yo
 
 #famous Quote 2
 famous_person : str = "Steve Jobs"
-message : str = "Be the change that you wish to see in the world."
-print(f'{famous_person} once said , "{message}"')
+message1 : str = "Be the change that you wish to see in the world."
+print(f'{famous_person} once said , "{message1}"')
 
 #stripping name 
 Person_Name = "\n\t\n   Numan Alvi   \t\n\t\n"
