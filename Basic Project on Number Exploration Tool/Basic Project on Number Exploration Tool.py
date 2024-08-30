@@ -15,7 +15,7 @@ for i in range(len(number)):
 i=0
 sum:int=0
 for i in range(len(number)):
-    print(f"The number {number[i]} and its square : ({number[i],number[i]**2})")
+    print(f"The number {number[i]} and its square : {number[i],number[i]**2}")
     sum = sum +number[i]
     
 print(f"Amazing! The sum of your favorite numbers is: {sum}")
